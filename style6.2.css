@@ -1,0 +1,48 @@
+#container_satu {
+  display: flex;
+  margin: 1em;
+}
+nav {
+  background-color: pink;
+  flex-direction: row;
+  height: 722x;
+  width: 20%;
+  text-align: center;
+  padding-top: 1em;
+}
+#main {
+  align-content: space-between;
+}
+#container_dua {
+  display: flex;
+}
+article {
+  background-color: white;
+  width: 850px;
+  height: 510px;
+  text-align: center;
+  padding-top: 1em;
+}
+aside {
+  background-color: aqua;
+  height: 510px;
+  width: 230px;
+  text-align: center;
+  padding-top: 1em;
+}
+header {
+  background-color: khaki;
+  flex-direction: column;
+  height: 90px;
+  width: 100%;
+  text-align: center;
+  padding-top: 1em;
+}
+footer {
+  background-color: khaki;
+  flex-direction: column;
+  height: 90px;
+  width: 100%;
+  text-align: center;
+  padding-top: 1em;
+}
